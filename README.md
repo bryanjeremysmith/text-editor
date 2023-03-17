@@ -21,9 +21,13 @@ This application will use a package idb, which is a lightweight wrapper around t
 
 git clone https://github.com/bryanjeremysmith/text-editor.git
 
+run 'npm i'
+
 ## Usage
 
-Show heroku url....
+Go to the following link in heroku.  You can press the install button at the top of the page to download the app for offline use.
+
+https://text-editor-1981.herokuapp.com/
 
 ## License 
 

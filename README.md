@@ -23,6 +23,10 @@ git clone https://github.com/bryanjeremysmith/text-editor.git
 
 run 'npm i'
 
+run 'npm run build'
+
+run 'npm start'
+
 ## Usage
 
 Go to the following link in heroku.  You can press the install button at the top of the page to download the app for offline use.
